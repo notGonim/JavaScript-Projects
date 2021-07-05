@@ -20,6 +20,7 @@
 
 ## Projects 
 - [Quote Generator](https://github.com/notGonim/JavaScript-Projects/tree/main/Quote%20Generator)
+- [Infinite Scroll](https://github.com/notGonim/JavaScript-Projects/tree/main/Infinity%20Scroll)
 
 
 
