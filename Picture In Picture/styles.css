@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap");
+
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(27, 20, 20);
+  height: 100vh;
+}
+
+.button-container {
+  border: 1px solid black;
+  padding: 15px;
+  box-shadow: inset 20px 4px -19px rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  background-color: antiquewhite;
+}
+
+button {
+  outline: none;
+  cursor: pointer;
+  width: 120px;
+  height: 70px;
+  font-size: 25px;
+  color: black;
+  border: none;
+}
